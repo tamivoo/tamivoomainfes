@@ -1,39 +1,50 @@
- {
-  "name": "GaleriSurat",
-  "short_name": "GaleriSurat",
+{
+  "short_name": "tamivoo",
+  "name": "Tamivoo",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/--t9wGSEVyvA/YS_v5ILfptI/AAAAAAAAFCA/8I-wuvf2EJAdoWyD4oE4ckbKul4XeskZgCLcBGAsYHQ/512x512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/--t9wGSEVyvA/YS_v5ILfptI/AAAAAAAAFCA/8I-wuvf2EJAdoWyD4oE4ckbKul4XeskZgCLcBGAsYHQ/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": "https://tamivoo.blogspot.com/",
+  "background_color": "#3367D6",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
-  "icons": [{
-    "src": "https://1.bp.blogspot.com/-7dBxxj2RXdo/XU1EZv85sEI/AAAAAAAAGk4/Z6171mrwsNEaU7FNf5taPI7yrAtc6ZgUACLcBGAs/s1600/GALERI%2BSURAT%2B48.png",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-NEZpOkrrJZY/XU1EaNtMlnI/AAAAAAAAGlA/8VHDaqnZi4gt2wpEndMjlF3n9UnePudjgCLcBGAs/s1600/GALERI%2BSURAT%2B72.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-mjGUBhkfehw/XU1EahWTLOI/AAAAAAAAGlE/C3FVw5Q5JIIvyjasDnl-zvKtsc8OA-ZmQCLcBGAs/s1600/GALERI%2BSURAT%2B96.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-IngbN_lBYLo/XU1EY5YY7kI/AAAAAAAAGk0/8uFK9I0YXhYuDIlGPhsi39Q11SKathB1ACLcBGAs/s1600/GALERI%2BSURAT%2B144.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-O-PPqx3puL0/XU1EYwlUmyI/AAAAAAAAGkw/AJvX3ndnClQMWGZEPgu4qEt3PAZuDpEegCLcBGAs/s1600/GALERI%2BSURAT%2B168.png",
-    "sizes": "168x168",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-xOjQy9M9G8A/XU1EYmy_loI/AAAAAAAAGks/yN8OVFaicZcRGMDldGC3eMQuIlM99bH6wCLcBGAs/s1600/GALERI%2BSURAT%2B192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-KuZJoHDFuvk/XU1EZ-Ij-LI/AAAAAAAAGk8/kz07J1dMmfs7k3wZzKjwUOxzrcZ1T3-XACLcBGAs/s320/GALERI%2BSURAT%2B512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
-  
-    <meta content='https://1.bp.blogspot.com/-KT5oawlsFmw/XU1L5b_q6FI/AAAAAAAAGlw/MgCBrWG4d90vVDbXl-zl6AW-DVURshefwCLcBGAs/s1600/GALERI%2BSURAT%2B300.png' property='og:image'/>
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Tamivoo?",
+      "short_name": "tamivoo",
+      "description": "Multilink",
+      "url": "https://tamivoo.blogspot.com/",
+      "icons": [{ "src": "https://lh3.googleusercontent.com/-1vYOjPLXfYk/YS_v1wHN8lI/AAAAAAAAFB8/9KKZiCdwg2QM4-l47a-2v4H6Ly1iy4MygCLcBGAsYHQ/192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Tamivoo?",
+      "short_name": "tamivoo",
+      "description": "multisource",
+      "url": "https://tamivoo.blogspot.com/",
+      "icons": [{ "src": "https://lh3.googleusercontent.com/-1vYOjPLXfYk/YS_v1wHN8lI/AAAAAAAAFB8/9KKZiCdwg2QM4-l47a-2v4H6Ly1iy4MygCLcBGAsYHQ/192x192.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Multishare",
+  "screenshots": [
+    {
+      "src": "https://lh3.googleusercontent.com/-AY_umUFJFUM/YS_v7x1AuSI/AAAAAAAAFCE/AKm6JSiSbYwJrAZ2akHwlcMPA9CERXrGgCLcBGAsYHQ/540x720.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-AY_umUFJFUM/YS_v7x1AuSI/AAAAAAAAFCE/AKm6JSiSbYwJrAZ2akHwlcMPA9CERXrGgCLcBGAsYHQ/540x720.png",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    }
+  ]
+}
